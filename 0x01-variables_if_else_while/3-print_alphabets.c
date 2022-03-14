@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+ * main - Lower an Uppercase Alphabet.
  *
  * Return: 0 (Success)
  */
