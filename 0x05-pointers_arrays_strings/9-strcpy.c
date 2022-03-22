@@ -5,6 +5,7 @@
 * including the terminating null byte
 * to the buffer pointed to by dest
 * @dest: chaine of caractere
+* @src: cahine caractere
 *
 * Return: dest
 */
