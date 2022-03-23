@@ -1,15 +1,13 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: nothing, return void
- */
-
-
+* main - prints my _putchar
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
-_putchar('_');
+_putchar('-');
 _putchar('p');
 _putchar('u');
 _putchar('t');
