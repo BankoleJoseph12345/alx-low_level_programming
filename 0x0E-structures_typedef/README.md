@@ -1,1 +1,1 @@
-readme
+Structure type
